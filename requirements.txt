@@ -1,0 +1,2 @@
+selenium>=4.22
+twilio>=9.0
